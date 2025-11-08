@@ -14,4 +14,6 @@ sudo ./system_monitor_tool
 # Run Using makefile: 
 make && sudo make run  
 
+
+
 After running, the tool shows all processes with their PID, user, CPU and memory usage, and name. You can scroll using the up and down arrow keys. Press K to kill a process, S to suspend it, R to resume it, D to view details, O to sort by CPU usage, M to sort by memory usage, P to sort by PID, and Q to quit the program. 
