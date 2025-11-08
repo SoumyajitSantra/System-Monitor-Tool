@@ -19,6 +19,3 @@ PID       USER           CPU(%)       MEMORY(MB)        NAME
 487       soumyajit        6.2            15.1           yes  
 [K] Kill  [S] Suspend  [R] Resume  [D] Details  [O] Sort CPU  [M] Sort Mem  [P] Sort PID  [Q] Quit  
 The tool works by reading live process data from the /proc directory in Linux, calculating CPU and memory usage, and displaying it using ncurses for a smooth terminal interface. You can easily control processes in real time without needing any external task manager.  
-
-Author: Soumyajit Santra, B.Tech CSE, ITER (Siksha 'O' Anusandhan). Aspiring Software Engineer passionate about C++, Java, and System Development.
-
